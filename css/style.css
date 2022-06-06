@@ -60,6 +60,11 @@ p {
   margin-bottom: 100px;
 }
 
+intro {
+  width: 40%;
+  margin: auto;
+}
+
 .skill-row {
   width: 50%;
   margin: 50px auto 50px auto;
@@ -150,4 +155,5 @@ p {
   width: 50%;
   margin: auto;
   padding-bottom: 20px;
+  text-align: center;
 }
